@@ -7,3 +7,4 @@ i have a cat~
 i have a dog~
 i have a monkey~
 i have a colorbar~
+i have a car~
